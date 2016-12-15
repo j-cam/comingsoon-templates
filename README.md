@@ -1,3 +1,3 @@
 # Coming Soon (templates)
 
-Simple templates for coming soon and maintenance pages.
+Templates for coming soon and maintenance pages.
